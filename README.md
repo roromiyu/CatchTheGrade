@@ -1,12 +1,13 @@
 # CatchTheGrade
 
-CatchTheGrades
+# CatchTheGrades
+
 A Dynamic 2D Educational Arcade Experience
 
 📝 Overview
 CatchTheGrades is an interactive, fast-paced arcade game developed using the Godot 4 Engine. Designed with a focus on fluid mechanics and real-time feedback, the game challenges players to manage their "Academic Standing" by collecting high-tier grades while navigating the risks of failing marks. It serves as a demonstration of 2D physics, signal-based event handling, and dynamic UI scaling in GDScript.
 
-🕹️ Gameplay Mechanics
+# 🕹️ Gameplay Mechanics
 Precision Movement: Controlled using standard keyboard inputs (Arrow Keys/WASD), the player maneuvers a collection basket to intercept falling objects.
 
 The Grading System:
@@ -21,7 +22,7 @@ Audio Triggers: High-fidelity audio feedback (Oops.ogg) is utilized to signal "m
 
 Live Rank Projection: The on-screen UI dynamically calculates the player’s overall letter grade (from F to A) based on real-time score thresholds.
 
-🛠️ Technical Specifications
+# 🛠️ Technical Specifications
 Engine: Godot 4.x
 
 Language: GDScript
@@ -36,7 +37,7 @@ Randomization Algorithms: Employs randf_range and array mapping to ensure unique
 
 Scene Instantiation: Dynamically spawns "Grade" scenes at runtime to manage memory efficiently.
 
-📂 Installation & Deployment
+# 📂 Installation & Deployment
 To view the source logic or run the project locally:
 
 Download the repository containing the project.godot file.
@@ -47,9 +48,9 @@ Ensure all audio assets (CatchSound, MissSound) are mapped correctly in the Insp
 
 Press F5 to initialize the debug build.
 
-👤 Developer Credits
-Lead Developer: [Your Name]
+# 👤 Developer Credits
+Lead Developer: rawan
 
-Project Context: Developed for [Competition Name/Institution Name]
+Project Context: Developed for (just to learn game dev)
 
 Built with: Godot Engine (Open Source)
